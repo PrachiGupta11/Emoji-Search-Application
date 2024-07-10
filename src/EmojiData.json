@@ -1,0 +1,172 @@
+{
+  "emoji":[
+    {
+      "id":1,
+      "character":"😀",
+      "name":"grinning face",
+      "category":"Smileys & People",
+      "keyword":"smile, laugh, happy, grinning face"
+    },
+    {
+      "id":2,
+      "character":"😃",
+      "name":"grinning face with big eyes",
+      "category":"Smileys & People",
+      "keyword":"smile,laugh,happy,grinning face with big eyes"
+    },
+    {
+      "id":3,
+      "character":"😄",
+      "name":"grinning face with smiling eyes",
+      "category":"Smileys & People",
+      "keyword":"smile,laugh,laughing,happy,grinning face with smiling eyes"
+    },
+    {
+      "id":4,
+      "character":"😁",
+      "name":"beaming face with smiling eyes",
+      "category":"Smileys & People",
+      "keyword":"smile,laugh,laughing,beaming face with smiling eyes"
+    },
+    {
+      "id":5,
+      "character":"😆",
+      "name":"grinning squinting face",
+      "category":"Smileys & People",
+      "keyword":"smile,laugh,laughing,grinning squinting face"
+    },
+    {
+      "id":6,
+      "character":"😅",
+      "name":"grinning face with sweat",
+      "category":"Smileys & People",
+      "keyword":"smile,embarrased,awkward,grinning face with sweat, face with sweat"
+    },
+    {
+      "id":7,
+      "character":"😂",
+      "name":"face with tears of joy",
+      "category":"Smileys & People",
+      "keyword":"smile,laugh,laughing,face with tears of joy,joy,face with tears"
+    },
+    {
+      "id":8,
+      "character":"🤣",
+      "name":"rolling on the floor laughing",
+      "category":"Smileys & People",
+      "keyword":"smile,laugh,laughing,rolling on the floor laughing,rolling on the floor, floor laughing"
+    },
+    {
+      "id":9,
+      "character":"🥲",
+      "name":"smiling face with tear",
+      "category":"Smileys & People",
+      "keyword":"tear, cry, tear face, crying face,smiling face with tear,face with tear"
+    },
+    {
+      "id":10,
+      "character":"😊",
+      "name":"smiling face with smiling eyes",
+      "category":"Smileys & People",
+      "keyword":"smile,happy,smiling face with smiling eyes,smiling eyes,smiling face"
+    },
+    {
+      "id":11,
+      "character":"😇",
+      "name":"smiling face with halo",
+      "category":"Smileys & People",
+      "keyword":"smile,happy,wisdom,smiling face with halo,halo"
+    },
+    {
+      "id":12,
+      "character":"🙂",
+      "name":"slightly smiling face",
+      "category":"Smileys & People",
+      "keyword":"smile, slight smile,slightly smiling face,slightly smile"
+    },
+    {
+      "id":13,
+      "character":"🙃",
+      "name":"upside-down face",
+      "category":"Smileys & People",
+      "keyword":"upside down face"
+    },
+    {
+      "id":14,
+      "character":"😉",
+      "name":"winking face",
+      "category":"Smileys & People",
+      "keyword":"winking, wink face, naughty,wink,winking face"
+    },
+    {
+      "id":15,
+      "character":"😌",
+      "name":"relieved face",
+      "category":"Smileys & People",
+      "keyword":"relieved, relieve, relieved face"
+    },
+    {
+      "id":16,
+      "character":"😍",
+      "name":"smiling face with heart eyes",
+      "category":"Smileys & People",
+      "keyword":"heart, heart face, heart eyes, smile face with heart eyes"
+    },
+    {
+      "id":17,
+      "character":"🥰",
+      "name":"smiling face with hearts",
+      "category":"Smileys & People",
+      "keyword":"smile face with hearts, hearts face, face with hearts,smiling face with hearts"
+    },
+    {
+      "id":18,
+      "character":"😘",
+      "name":"face blowing a kiss",
+      "category":"Smileys & People",
+      "keyword":"face blowing a kiss,kiss face,kissing face,blowing kiss,kiss"
+    },
+    {
+      "id":19,
+      "character":"😗",
+      "name":"kissing face",
+      "category":"Smileys & People",
+      "keyword":"face blowing a kiss,kiss face,kissing face,blowing kiss,kiss"
+    }, 
+    {
+      "id":20,
+      "character":"😙",
+      "name":"kissing face with smiling eyes",
+      "category":"Smileys & People",
+      "keyword":"face blowing a kiss,kiss face,kissing face,blowing kiss,kiss,kissing face with smiling eyes,smiling eyes"
+    },
+    {
+      "id":21,
+      "character":"😚",
+      "name":"kissing face with closed eyes",
+      "category":"Smileys & People",
+      "keyword":"face blowing a kiss,kiss face,kissing face,blowing kiss,kiss,kissing face with smiling eyes,smiling eyes,kissing face with closed eyes,faced with closed eyes"
+    },
+    {
+      "id":22,
+      "character":"😋",
+      "name":"face savoring food",
+      "category":"Smileys & People",
+      "keyword":"face savoring food,savoring, savoring food,delicious,delicious food,yummy,yummy food"
+    },
+    {
+      "id":23,
+      "character":"😛",
+      "name":"face with tongue",
+      "category":"Smileys & People",
+      "keyword":"face with tongue,tongue face"
+    },
+    {
+      "id":24,
+      "character":"😝",
+      "name":"squinting face with tongue",
+      "category":"Smileys & People",
+      "keyword":"face with tongue, tongue face, squinting face with tongue, squinting face, squinting"
+    }
+  ]
+}
